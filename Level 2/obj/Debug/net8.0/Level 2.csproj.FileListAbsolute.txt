@@ -1,0 +1,14 @@
+D:\Practice\C#\Level 2\bin\Debug\net8.0\Level 2.exe
+D:\Practice\C#\Level 2\bin\Debug\net8.0\Level 2.deps.json
+D:\Practice\C#\Level 2\bin\Debug\net8.0\Level 2.runtimeconfig.json
+D:\Practice\C#\Level 2\bin\Debug\net8.0\Level 2.dll
+D:\Practice\C#\Level 2\bin\Debug\net8.0\Level 2.pdb
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.AssemblyInfoInputs.cache
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.AssemblyInfo.cs
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.csproj.CoreCompileInputs.cache
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.dll
+D:\Practice\C#\Level 2\obj\Debug\net8.0\refint\Level 2.dll
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.pdb
+D:\Practice\C#\Level 2\obj\Debug\net8.0\Level 2.genruntimeconfig.cache
+D:\Practice\C#\Level 2\obj\Debug\net8.0\ref\Level 2.dll
