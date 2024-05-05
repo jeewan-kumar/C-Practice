@@ -12,3 +12,4 @@ D:\Practice\C#\Level 3\obj\Debug\net8.0\refint\Level 3.dll
 D:\Practice\C#\Level 3\obj\Debug\net8.0\Level 3.pdb
 D:\Practice\C#\Level 3\obj\Debug\net8.0\Level 3.genruntimeconfig.cache
 D:\Practice\C#\Level 3\obj\Debug\net8.0\ref\Level 3.dll
+D:\Practice\C#\Level 3\obj\Debug\net8.0\Level 3.sourcelink.json
