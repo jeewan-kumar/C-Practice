@@ -1,0 +1,15 @@
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\bin\Debug\net6.0\Variables and Data Types.exe
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\bin\Debug\net6.0\Variables and Data Types.deps.json
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\bin\Debug\net6.0\Variables and Data Types.runtimeconfig.json
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\bin\Debug\net6.0\Variables and Data Types.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\bin\Debug\net6.0\Variables and Data Types.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.csproj.AssemblyReference.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.AssemblyInfoInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.AssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.csproj.CoreCompileInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\refint\Variables and Data Types.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\Variables and Data Types.genruntimeconfig.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Variables and Data Types\obj\Debug\net6.0\ref\Variables and Data Types.dll

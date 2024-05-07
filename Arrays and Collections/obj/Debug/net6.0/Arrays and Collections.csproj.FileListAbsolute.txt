@@ -1,0 +1,15 @@
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\bin\Debug\net6.0\Arrays and Collections.exe
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\bin\Debug\net6.0\Arrays and Collections.deps.json
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\bin\Debug\net6.0\Arrays and Collections.runtimeconfig.json
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\bin\Debug\net6.0\Arrays and Collections.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\bin\Debug\net6.0\Arrays and Collections.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.csproj.AssemblyReference.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.AssemblyInfoInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.AssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.csproj.CoreCompileInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\refint\Arrays and Collections.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\Arrays and Collections.genruntimeconfig.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Arrays and Collections\obj\Debug\net6.0\ref\Arrays and Collections.dll

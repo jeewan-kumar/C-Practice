@@ -1,0 +1,15 @@
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\bin\Debug\net6.0\Introduction to C#.exe
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\bin\Debug\net6.0\Introduction to C#.deps.json
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\bin\Debug\net6.0\Introduction to C#.runtimeconfig.json
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\bin\Debug\net6.0\Introduction to C#.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\bin\Debug\net6.0\Introduction to C#.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.csproj.AssemblyReference.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.AssemblyInfoInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.AssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.csproj.CoreCompileInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\refint\Introduction to C#.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\Introduction to C#.genruntimeconfig.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Introduction to C#\obj\Debug\net6.0\ref\Introduction to C#.dll

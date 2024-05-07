@@ -1,0 +1,15 @@
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\bin\Debug\net6.0\Control Structures.exe
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\bin\Debug\net6.0\Control Structures.deps.json
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\bin\Debug\net6.0\Control Structures.runtimeconfig.json
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\bin\Debug\net6.0\Control Structures.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\bin\Debug\net6.0\Control Structures.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.csproj.AssemblyReference.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.AssemblyInfoInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.AssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.csproj.CoreCompileInputs.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\refint\Control Structures.dll
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.pdb
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\Control Structures.genruntimeconfig.cache
+C:\Users\jeevan.kumar\Desktop\.Net\Control Structures\obj\Debug\net6.0\ref\Control Structures.dll
